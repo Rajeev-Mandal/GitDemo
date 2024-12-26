@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is C002-4CD9
+
+ Directory of C:\Users\rajmanda\OneDrive - Capgemini\MyProject
+
+21-12-2024  08.57 PM    <DIR>          .
+21-12-2024  08.54 PM    <DIR>          ..
+21-12-2024  08.57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  284,537,741,312 bytes free
